@@ -1,0 +1,8 @@
+C:\Users\38093\Desktop\study\OOP 2 course\Lab4\Second\bin\Debug\Second.exe.config
+C:\Users\38093\Desktop\study\OOP 2 course\Lab4\Second\bin\Debug\Second.exe
+C:\Users\38093\Desktop\study\OOP 2 course\Lab4\Second\bin\Debug\Second.pdb
+C:\Users\38093\Desktop\study\OOP 2 course\Lab4\Second\obj\Debug\Second.csproj.AssemblyReference.cache
+C:\Users\38093\Desktop\study\OOP 2 course\Lab4\Second\obj\Debug\Second.csproj.SuggestedBindingRedirects.cache
+C:\Users\38093\Desktop\study\OOP 2 course\Lab4\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
+C:\Users\38093\Desktop\study\OOP 2 course\Lab4\Second\obj\Debug\Second.exe
+C:\Users\38093\Desktop\study\OOP 2 course\Lab4\Second\obj\Debug\Second.pdb
